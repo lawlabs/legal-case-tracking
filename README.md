@@ -29,10 +29,6 @@
 
 <img width="666" alt="image" src="https://github.com/user-attachments/assets/55e319a5-de42-4465-a0bf-6189de3c3b04">
 
-<div style="text-align: center; border: 1px solid #ccc; padding: 10px; display: inline-block; background-color: #f9f9f9;">
-    <img src="https://github.com/user-attachments/assets/55e319a5-de42-4465-a0bf-6189de3c3b04" alt="Скриншот определения" style="width: 90%; border: 1px solid #ccc; border-radius: 5px;">
-</div>
-
 По номеру `33-414537/2020` Мосгорсуд рассмативал жалобу на определение о назначении экспертизы и отменил это определение:
 
 <img width="738" alt="image" src="https://github.com/user-attachments/assets/5dc8988e-54b5-428a-bd71-c3975e7f0fc4">
